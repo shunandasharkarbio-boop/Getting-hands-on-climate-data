@@ -8,5 +8,6 @@ Quantities that climate scientists are interested in are similar to those used t
 
 The figure below shows a woman walking her dog and we can use it to make an analogy to illustrate the difference between weather and climate. if you focus your attention on the dog, you can see that it is all over the place, sometimes upwards, sometimes downwards: this can represent the weather and its variability. The dog (weather) is not following a fully random pattern and varies around a main direction (trend) that is given by the woman: the woman is representing the climate and gives us an indication of where both the woman and dog are likely to be in the future.
 <p align="center">
-  <img src="./collection_lifecycle.svg" alt="Collection Lifecycle" width="100%">
+  <img src="./weather_versus_climate.png" alt="Collection Lifecycle" width="100%">
 </p>
+Source: Animated short introduction to statistics in climate research from Norwegian infotainment program Siffer. Produced by TeddyTV for NRK. Animation by Ole Christoffer Haga

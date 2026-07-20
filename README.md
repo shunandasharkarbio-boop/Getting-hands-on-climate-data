@@ -4,16 +4,26 @@ The practical aims at familiarzing you with Climate Science and the terminology 
 Agenda
 In this tutorial, we will cover:
 
--Get data
+-Get data.
+
 -What is climate?
+
 -Climate versus Weather
+
 -What is the weather like in Paris?
+
 -What is the climate in Paris?
+
 -Seasonality
+
 -Yearly average
+
 -Anomalies
+
 -Climate variables
+
 -Essential Climate Variables
+
 -Past, present and future climate?
 
 Background:

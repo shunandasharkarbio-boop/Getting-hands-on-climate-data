@@ -4,17 +4,17 @@ The practical aims at familiarzing you with Climate Science and the terminology 
 Agenda
 In this tutorial, we will cover:
 
-Get data
-What is climate?
-Climate versus Weather
-What is the weather like in Paris?
-What is the climate in Paris?
-Seasonality
-Yearly average
-Anomalies
-Climate variables
-Essential Climate Variables
-Past, present and future climate?
+-Get data
+-What is climate?
+-Climate versus Weather
+-What is the weather like in Paris?
+-What is the climate in Paris?
+-Seasonality
+-Yearly average
+-Anomalies
+-Climate variables
+-Essential Climate Variables
+-Past, present and future climate?
 
 Background:
 European Copernicus Climate Change Service (C3S) provide authoritative information about the past, present and future climate. C3S is one of the many services provided by Copernicus, the European Union’s Earth Observation Programme, looking at our planet and its environment for the ultimate benefit of all European citizens. The C3S Climate Data Store (CDS) provides a single point of access to a wide range of quality-assured climate datasets distributed in the cloud. Access to data from the CDS is open and unrestricted. While registration is required, it is free of charge. We will be using freely available datasets from the CDS, including observations, historical climate data records, estimates of Essential Climate Variables (ECVs) derived from Earth observations, global and regional climate reanalyses of past observations, seasonal forecasts and climate projections. To make access easier and faster, the datasets have been prepared and deposited on Zenodo. At the end of the tutorial, feel free to visit the CDS to download alternative datasets.

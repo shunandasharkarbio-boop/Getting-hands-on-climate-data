@@ -1,36 +1,74 @@
-# Getting-hands-on-climate-data
-The practical aims at familiarzing you with Climate Science and the terminology used by climate scientists. The target audience is not a climate scientist but anyone interested in learning about climate.
+# 🌍 Getting Hands-on Climate Data
 
-Agenda
-In this tutorial, we will cover:
+## 📖 Overview
 
--Get data.
+This project introduces the fundamentals of **Climate Science** and the terminology commonly used by climate scientists. It is designed for **beginners and learners** who are interested in understanding climate data, rather than for climate science specialists.
 
--What is climate?
+Using **Galaxy**, this tutorial demonstrates how to explore, analyze, and visualize real-world climate datasets obtained from the **Copernicus Climate Change Service (C3S)**.
 
--Climate versus Weather
+---
 
--What is the weather like in Paris?
+## 🎯 Learning Objectives
 
--What is the climate in Paris?
+Throughout this tutorial, you will learn how to:
 
--Seasonality
+- 📥 Access climate datasets
+- 🌦️ Understand the difference between **Weather** and **Climate**
+- 🌍 Explore the weather conditions in **Paris**
+- 📊 Analyze the climate of Paris over time
+- 🌸 Study seasonal temperature variations
+- 📈 Calculate yearly average temperatures
+- 🔍 Investigate climate anomalies
+- 🌡️ Explore different climate variables
+- 🌱 Learn about Essential Climate Variables (ECVs)
+- 🕒 Examine past, present, and future climate patterns
 
--Yearly average
+---
 
--Anomalies
+## 📚 Background
 
--Climate variables
+The **Copernicus Climate Change Service (C3S)** is part of the European Union's **Copernicus Earth Observation Programme**. It provides reliable information about the **past, present, and future climate**, helping researchers, policymakers, and the public better understand climate change.
 
--Essential Climate Variables
+Climate datasets are distributed through the **Climate Data Store (CDS)**, an open-access platform that provides high-quality climate observations, historical records, reanalysis products, seasonal forecasts, and climate projections. While a free registration is required, all datasets are openly accessible.
 
--Past, present and future climate?
+For this tutorial, preprocessed datasets have been provided through **Zenodo** to simplify data access and reduce download time.
 
-Background:
-European Copernicus Climate Change Service (C3S) provide authoritative information about the past, present and future climate. C3S is one of the many services provided by Copernicus, the European Union’s Earth Observation Programme, looking at our planet and its environment for the ultimate benefit of all European citizens. The C3S Climate Data Store (CDS) provides a single point of access to a wide range of quality-assured climate datasets distributed in the cloud. Access to data from the CDS is open and unrestricted. While registration is required, it is free of charge. We will be using freely available datasets from the CDS, including observations, historical climate data records, estimates of Essential Climate Variables (ECVs) derived from Earth observations, global and regional climate reanalyses of past observations, seasonal forecasts and climate projections. To make access easier and faster, the datasets have been prepared and deposited on Zenodo. At the end of the tutorial, feel free to visit the CDS to download alternative datasets.
+---
 
-For the purpose of this tutorial, sample datasets have been created from data downloaded from C3S through Copernicus Climate Data Store:
+## 📂 Dataset Sources
 
-E-OBS daily gridded meteorological data for Europe from 1950 to present derived from in-situ observations
-Essential climate variables for assessment of climate variability from 1979 to present
-To reduce the volume of data, the data resolution (in space and/or time) has been significantly reduced and/or data has been selected on sample locations (Paris, Oslo and Freiburg). The data format may also have been changed (for instance to tabular) to ease processing.
+This tutorial uses sample datasets derived from the Copernicus Climate Data Store, including:
+
+- 🌍 **E-OBS daily gridded meteorological data** for Europe (1950–Present), derived from in-situ observations.
+- 🌱 **Essential Climate Variables (ECVs)** for climate variability assessment (1979–Present).
+
+To make the exercises lightweight and beginner-friendly:
+
+- Spatial and temporal resolutions have been reduced.
+- Data has been extracted for selected locations:
+  - 🇫🇷 Paris
+  - 🇳🇴 Oslo
+  - 🇩🇪 Freiburg
+- Some datasets have been converted into **tabular format** for easier analysis within Galaxy.
+
+---
+
+## 🛠️ Tools Used
+
+- Galaxy Platform
+- Climate Data Store (CDS)
+- Copernicus Climate Change Service (C3S)
+- Zenodo
+- Tabular Climate Datasets
+
+---
+
+## 🎓 Learning Outcome
+
+By completing this tutorial, you will gain practical experience in:
+
+- Working with real-world climate datasets
+- Exploring and visualizing climate data in Galaxy
+- Understanding climate trends and variability
+- Performing basic climate data analysis
+- Interpreting environmental datasets for research and education

@@ -15,3 +15,4 @@ On which date did the minimum temperature occured?
 sol:
 
 On which date did the maximum temperature occured?
+sol: https://github.com/shunandasharkarbio-boop/Getting-hands-on-climate-data/blob/main/03_Daily%20temperature%20time%20series/minimum%20%20temperature.tabular

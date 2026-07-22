@@ -7,9 +7,11 @@ Hands On: Daily temperature time series
 Question:
 
 What was the average temperature in Paris on the 14th of July 2003?
-
+sol: No ans
 What is the minimum and maximum temperatures in Paris?
-
+sol: https://github.com/shunandasharkarbio-boop/Getting-hands-on-climate-data/blob/main/03_Daily%20temperature%20time%20series/minimum%20and%20maximum%20temperature.tabular
+  
 On which date did the minimum temperature occured?
+sol:
 
 On which date did the maximum temperature occured?

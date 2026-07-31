@@ -1,4 +1,4 @@
-```markdown
+
 # 🌡️ Temperature Anomalies
 
 ## 📖 Overview
@@ -51,5 +51,5 @@ Through this exercise, I learned how to:
 - Visualize long-term climate trends using climate stripes
 - Explore pre-computed climate datasets in Galaxy
 - Recognize why anomalies are preferred over absolute temperatures in climate change studies
-```
+
 
